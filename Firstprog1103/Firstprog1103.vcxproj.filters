@@ -36,5 +36,11 @@
     <ClCompile Include="homework_4th.cpp">
       <Filter>헤더 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5th.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6th_pointer.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
