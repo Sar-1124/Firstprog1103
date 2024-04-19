@@ -15,32 +15,44 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="실습.cpp">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="first.cpp">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="실습2.cpp">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4th_lecture.cpp">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="break_4th_lecture.cpp">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="homework_4th.cpp">
-      <Filter>헤더 파일</Filter>
+    <ClCompile Include="2nd.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="5th.cpp">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="6th_pointer.cpp">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="break_4th_lecture.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1st.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="homework_4th.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1st_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2nd_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4th_lecture.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7th_function.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7th_pointer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7th_function_argument.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7th_factorial.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
