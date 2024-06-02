@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="윤하준.c">
+    <ClCompile Include="P434_head.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Struct_book_manage.c">
+    <ClCompile Include="P434_search.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="reverse.c">
+    <ClCompile Include="P434_Recreate_Node.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="tail_prev.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
