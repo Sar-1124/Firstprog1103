@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Chap21\P487_파일 입출력\p487.cpp">
+    <ClCompile Include="..\Chap21\P487_파일 입출력\Write.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Read.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
