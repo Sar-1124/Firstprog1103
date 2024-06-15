@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="윤하준.c">
+    <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Struct_book_manage.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="reverse.c">
+    <ClCompile Include="reverse_HW.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
