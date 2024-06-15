@@ -24,5 +24,8 @@
     <ClCompile Include="reverse_HW.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="filebook.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
