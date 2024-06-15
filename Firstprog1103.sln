@@ -33,6 +33,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P420_리턴값이 없는 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "도서관리프로그램", "book_manage\book_manage.vcxproj", "{B6D5D45D-7D65-4D78-B1C4-9B7C466A8250}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chap21", "Chap21", "{E5B44438-F679-499C-B729-461615BC5839}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P487_파일 입출력", "P487_파일 입출력\P487_파일 입출력.vcxproj", "{DB11DAE8-9808-44F0-98F9-5FC2F984D0CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -105,6 +109,14 @@ Global
 		{B6D5D45D-7D65-4D78-B1C4-9B7C466A8250}.Release|x64.Build.0 = Release|x64
 		{B6D5D45D-7D65-4D78-B1C4-9B7C466A8250}.Release|x86.ActiveCfg = Release|Win32
 		{B6D5D45D-7D65-4D78-B1C4-9B7C466A8250}.Release|x86.Build.0 = Release|Win32
+		{DB11DAE8-9808-44F0-98F9-5FC2F984D0CF}.Debug|x64.ActiveCfg = Debug|x64
+		{DB11DAE8-9808-44F0-98F9-5FC2F984D0CF}.Debug|x64.Build.0 = Debug|x64
+		{DB11DAE8-9808-44F0-98F9-5FC2F984D0CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB11DAE8-9808-44F0-98F9-5FC2F984D0CF}.Debug|x86.Build.0 = Debug|Win32
+		{DB11DAE8-9808-44F0-98F9-5FC2F984D0CF}.Release|x64.ActiveCfg = Release|x64
+		{DB11DAE8-9808-44F0-98F9-5FC2F984D0CF}.Release|x64.Build.0 = Release|x64
+		{DB11DAE8-9808-44F0-98F9-5FC2F984D0CF}.Release|x86.ActiveCfg = Release|Win32
+		{DB11DAE8-9808-44F0-98F9-5FC2F984D0CF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +130,7 @@ Global
 		{1E47ADB6-154C-459A-89F9-13B56038AF08} = {C091E258-7FEB-4AD7-A673-3E6C727CC10C}
 		{453AF668-62E6-4438-AFA7-6D9F7A04518A} = {B5D366EC-C76C-482E-9C48-6F602CF12A21}
 		{B6D5D45D-7D65-4D78-B1C4-9B7C466A8250} = {A3A81F0A-7E3F-490A-920C-0849AF7738E9}
+		{DB11DAE8-9808-44F0-98F9-5FC2F984D0CF} = {E5B44438-F679-499C-B729-461615BC5839}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {23298A5D-5411-4E9D-944E-7BE87491F448}
